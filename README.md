@@ -53,7 +53,6 @@ A scalable workflow-based issue tracking system inspired by JIRA.
 - Audit logs for every state transition  
 - Optimized DB schema with **indexes** for fast search & filtering  
 
-🔗 *Repo link:* _coming soon_
 
 ---
 
@@ -70,7 +69,6 @@ A complete backend system powering core e-commerce operations.
 - Pagination, filtering, sorting & global exception handling  
 - Scalable database design for catalog & order management  
 
-🔗 *Repo link:* _coming soon_
 
 ---
 
