@@ -74,4 +74,4 @@ A complete backend system powering core e-commerce operations.
 # 🌐 Connect With Me
 
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/k-nikhil/  
-- 🐙 **GitHub:** https://github.com/YOUR_USERNAME  
+- 🐙 **GitHub:** https://github.com/NikhilKummari
