@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | MySQL | Redis</h3>
+<h3 align="center">Java Backend Developer | Java | SpringBoot | SQL </h3>
 
 ---
 
